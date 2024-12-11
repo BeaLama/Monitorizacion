@@ -22,7 +22,7 @@ Especialmente diseñada para monitorizar contenedores y aplicaciones en entornos
 
 ## Grafana
 
-![grafana]()
+![grafana](img/grafana.jpg)
 
 Usada en conjunto con Prometheus para la visualización de datos de monitorización en tiempo real.
 
