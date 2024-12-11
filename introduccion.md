@@ -1,5 +1,5 @@
 La monitorización es un proceso clave para el mantenimiento y la gestión eficiente de sistemas y redes. <br> 
-Consiste en el seguimiento continuo de diferentes parámetros y métricas relacionadas con el rendimiento, la disponibilidad y la seguridad de los componentes tecnológicos. 
+\nConsiste en el seguimiento continuo de diferentes parámetros y métricas relacionadas con el rendimiento, la disponibilidad y la seguridad de los componentes tecnológicos. 
 
 ### Objetivos:
 
