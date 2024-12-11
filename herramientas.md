@@ -4,7 +4,7 @@ Existen diversas herramientas de monitorización utilizadas en informática, ent
 
 ## Nagios 
 
-![nagios]()
+![nagios](img/nagios.jpg)
 
 Herramienta de monitorización de red y servicios, ampliamente utilizada en entornos corporativos.
 
@@ -16,7 +16,7 @@ Ofrece monitorización en tiempo real de redes, servidores, aplicaciones y bases
 
 ## Prometheus
 
-![prome]()
+![prome](img/prome.png)
 
 Especialmente diseñada para monitorizar contenedores y aplicaciones en entornos de microservicios.
 
