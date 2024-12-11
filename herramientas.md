@@ -10,7 +10,7 @@ Herramienta de monitorización de red y servicios, ampliamente utilizada en ento
 
 ## Zabbix 
 
-![zabbix]()
+![zabbix](img/zabbix.avif)
 
 Ofrece monitorización en tiempo real de redes, servidores, aplicaciones y bases de datos.
 
@@ -28,6 +28,6 @@ Usada en conjunto con Prometheus para la visualización de datos de monitorizaci
 
 ## New Relic
 
-![new]()
+![new](img/new2.jpg)
 
 Herramienta de monitorización de aplicaciones en la nube que proporciona información detallada sobre el rendimiento.
