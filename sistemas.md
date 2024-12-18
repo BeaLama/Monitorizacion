@@ -1,5 +1,8 @@
 # Sistemas de monitorización
 
+Los sistemas de monitorización son herramientas o plataformas diseñadas para supervisar el funcionamiento y el rendimiento de diversos componentes de infraestructura tecnológica. 
+Su objetivo principal es garantizar el correcto funcionamiento de estos sistemas y detectar posibles problemas o fallos antes de que afecten a los usuarios o a las operaciones del negocio.
+
 ## Herramientas Comunes para Monitorización
 
 Existen diversas herramientas de monitorización utilizadas en informática, entre ellas:
