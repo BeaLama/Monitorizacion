@@ -1,8 +1,10 @@
-# Herramientas Comunes para Monitorización
+# Sistemas de monitorización
+
+## Herramientas Comunes para Monitorización
 
 Existen diversas herramientas de monitorización utilizadas en informática, entre ellas:
 
-## Nagios 
+### Nagios 
 
 * **Alertas automáticas:** Notificaciones en tiempo real ante problemas.
 * **Escalabilidad:** Ampliable con plugins.
@@ -12,7 +14,7 @@ Existen diversas herramientas de monitorización utilizadas en informática, ent
 
 Herramienta de monitorización de red y servicios, ampliamente utilizada en entornos corporativos.
 
-## Zabbix 
+### Zabbix 
 
 * **Interfaz gráfica:** Visualización intuitiva de datos.
 * **Alertas personalizables:** Notificaciones basadas en eventos.
@@ -22,7 +24,7 @@ Herramienta de monitorización de red y servicios, ampliamente utilizada en ento
 
 Ofrece monitorización en tiempo real de redes, servidores, aplicaciones y bases de datos.
 
-## Prometheus
+### Prometheus
 
 * **Series temporales:** Recoge métricas históricas para análisis.
 * **Integración con Grafana:** Visualización en tiempo real.
@@ -32,7 +34,7 @@ Ofrece monitorización en tiempo real de redes, servidores, aplicaciones y bases
 
 Especialmente diseñada para monitorizar contenedores y aplicaciones en entornos de microservicios.
 
-## Grafana
+### Grafana
 
 * **Visualización de datos:** Crea dashboards interactivos.
 * **Soporte para múltiples fuentes:** Se conecta con herramientas como Prometheus.
@@ -43,7 +45,7 @@ Especialmente diseñada para monitorizar contenedores y aplicaciones en entornos
 
 Usada en conjunto con Prometheus para la visualización de datos de monitorización en tiempo real.
 
-## New Relic
+### New Relic
 
 * **Rendimiento en tiempo real:** Mide tiempos de respuesta y recursos.
 * **Trazabilidad:** Detecta errores y cuellos de botella.
