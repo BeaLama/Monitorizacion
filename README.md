@@ -14,5 +14,5 @@
 
 ## Referencias
 
-* [Chatgpt](https://chatgpt.com/)
-* [Manuel Domínguez](https://github.com/mftienda)
+***[Chatgpt]**(https://chatgpt.com/)
+**[Manuel Domínguez]**(https://github.com/mftienda)
