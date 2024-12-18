@@ -1,10 +1,10 @@
 # Herramientas propias del sistema
 
-ps a- procesos que ejecutandose desde la terminal
+* **ps**: muestra los procesosen ejecución.
+* **ps aux**: muestra información más detallada.
 
-+ en primer plano
+![1](img/2.png)
 
-![][image1]
 
 informacion detallada de los procesos
 
